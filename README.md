@@ -1,2 +1,2 @@
 # gamestore
-It is an  game store
+It is an e-commerce platform for games
